@@ -1,2 +1,9 @@
-<h1>Welcome to my Website</h1>
+<div class="container">
+
+<h1>Rails Authentication Tutorial from NYCDA</h1>
 <h2> this file is in the views/home folder </h2>
+
+<button class="btn btn-primary"> button </button>
+
+
+</div>
