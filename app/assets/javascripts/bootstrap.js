@@ -7,8 +7,8 @@
     <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta http-equiv="Content-Language" content="en">
-    
-    
+
+
     <title>bootstrap-sass/bootstrap.js at master · twbs/bootstrap-sass</title>
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
     <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
@@ -33,10 +33,10 @@
       <meta name="google-analytics" content="UA-3769691-2">
 
     <meta content="collector.githubapp.com" name="octolytics-host" /><meta content="collector-cdn.github.com" name="octolytics-script-host" /><meta content="github" name="octolytics-app-id" /><meta content="4BA4C181:56A3:138B07C:5509AFFC" name="octolytics-dimension-request_id" /><meta content="8962975" name="octolytics-actor-id" /><meta content="dacravey" name="octolytics-actor-login" /><meta content="a72dc6ba41bdf8f2c61c02a94025b1913d29ddcccce550181ebede934dc2cef9" name="octolytics-actor-hash" />
-    
+
     <meta content="Rails, view, blob#show" name="analytics-event" />
 
-    
+
     <link rel="icon" type="image/x-icon" href="https://assets-cdn.github.com/favicon.ico">
 
 
@@ -45,13 +45,13 @@
 
     <link href="https://assets-cdn.github.com/assets/github-b076b66ca580986575661bc104afa9d0bc32cf0d3e524e2088603d7344dd39fd.css" media="all" rel="stylesheet" />
     <link href="https://assets-cdn.github.com/assets/github2-5bff5ae06284ff2eb510dac0d4dba25b66ee6b9d5fdab323d6ab35bf6a0bd6a4.css" media="all" rel="stylesheet" />
-    
-    
+
+
 
 
     <meta http-equiv="x-pjax-version" content="6d779729af647b0ff2c2aa900c4459d2">
 
-      
+
   <meta name="description" content="bootstrap-sass - Official Sass port of Bootstrap">
   <meta name="go-import" content="github.com/twbs/bootstrap-sass git https://github.com/twbs/bootstrap-sass.git">
 
@@ -64,9 +64,9 @@
   <body class="logged_in  env-production macintosh vis-public page-blob">
     <a href="#start-of-content" tabindex="1" class="accessibility-aid js-skip-to-content">Skip to content</a>
     <div class="wrapper">
-      
-      
-      
+
+
+
 
 
         <div class="header header-logged-in true" role="banner">
@@ -106,7 +106,7 @@
         </li>
       </ul>
 
-    
+
 <ul class="header-nav user-nav right" id="user-links">
   <li class="header-nav-item dropdown js-menu-container">
     <a class="header-nav-link name" href="/dacravey" data-ga-click="Header, go to profile, text:username">
@@ -124,7 +124,7 @@
     </a>
 
     <div class="dropdown-menu-content js-menu-content">
-      
+
 <ul class="dropdown-menu">
   <li>
     <a href="/new" data-ga-click="Header, create new repository, icon:repo"><span class="octicon octicon-repo"></span> New repository</a>
@@ -169,23 +169,23 @@
 </ul>
 
 
-    
+
   </div>
 </div>
 
-        
 
-        
+
+
 
 
       <div id="start-of-content" class="accessibility-aid"></div>
           <div class="site" itemscope itemtype="http://schema.org/WebPage">
     <div id="js-flash-container">
-      
+
     </div>
     <div class="pagehead repohead instapaper_ignore readability-menu">
       <div class="container">
-        
+
 <ul class="pagehead-actions">
 
   <li>
@@ -203,7 +203,7 @@
         <a class="social-count js-social-count" href="/twbs/bootstrap-sass/watchers">
           511
         </a>
-        
+
         <div class="select-menu-modal-holder">
           <div class="select-menu-modal subscription-menu-modal js-menu-content" aria-hidden="true">
             <div class="select-menu-header">
@@ -261,7 +261,7 @@
   </li>
 
   <li>
-    
+
   <div class="js-toggler-container js-social-container starring-container on">
 
     <form accept-charset="UTF-8" action="/twbs/bootstrap-sass/unstar" class="js-toggler-form starred js-unstar-button" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="6IPcVEHuA97mhfBzQFIMTbeok2Go/AvMy2pXZL7H0kVHGWHxtSxZkaMGQ44zF7h7NT4NBNx/ojNH7oCpK/Llag==" /></div>
@@ -331,7 +331,7 @@
     <div class="container">
       <div class="repository-with-sidebar repo-container new-discussion-timeline  ">
         <div class="repository-sidebar clearfix">
-            
+
 <nav class="sunken-menu repo-nav js-repo-nav js-sidenav-container-pjax js-octicon-loaders"
      role="navigation"
      data-pjax="#js-repo-pjax-container"
@@ -379,7 +379,7 @@
 </nav>
 
               <div class="only-with-full-nav">
-                  
+
 <div class="clone-url open"
   data-protocol-type="http"
   data-url="/users/set_protocol?protocol_selector=http&amp;protocol_type=clone">
@@ -393,7 +393,7 @@
   </div>
 </div>
 
-  
+
 <div class="clone-url "
   data-protocol-type="ssh"
   data-url="/users/set_protocol?protocol_selector=ssh&amp;protocol_type=clone">
@@ -407,7 +407,7 @@
   </div>
 </div>
 
-  
+
 <div class="clone-url "
   data-protocol-type="subversion"
   data-url="/users/set_protocol?protocol_selector=subversion&amp;protocol_type=clone">
@@ -448,14 +448,14 @@
         </div><!-- /.repository-sidebar -->
 
         <div id="js-repo-pjax-container" class="repository-content context-loader-container" data-pjax-container>
-          
+
 
 <a href="/twbs/bootstrap-sass/blob/d047ceac00b1a03a8931e96a281d7eaf9a8f8979/assets/javascripts/bootstrap.js" class="hidden js-permalink-shortcut" data-hotkey="y">Permalink</a>
 
 <!-- blob contrib key: blob_contributors:v21:cadb4985ef2da7a276c710403d36083e -->
 
 <div class="file-navigation js-zeroclipboard-container">
-  
+
 <div class="select-menu js-menu-container js-select-menu left">
   <span class="minibutton select-menu-button js-menu-target css-truncate" data-hotkey="w"
     data-master-branch="master"
@@ -1212,7 +1212,7 @@
       67.546 kb
     </div>
   </div>
-  
+
   <div class="blob-wrapper data type-javascript">
       <table class="highlight tab-size-8 js-file-line-container">
       <tr>
@@ -11132,8 +11132,8 @@
 
 
 
-    
-    
+
+
 
     <div id="ajax-error-message" class="flash flash-error">
       <span class="octicon octicon-alert"></span>
@@ -11144,9 +11144,8 @@
 
       <script crossorigin="anonymous" src="https://assets-cdn.github.com/assets/frameworks-d2f4f76d6a05f07ed67ef9f94d3823b34f98232770518bc7f8f40de8846ec511.js"></script>
       <script async="async" crossorigin="anonymous" src="https://assets-cdn.github.com/assets/github-bd88aa853cc649a3a5f5c77b63c496d0ebbfcfbe23942cc80cbdad78ccf7b852.js"></script>
-      
-      
+
+
 
   </body>
 </html>
-
